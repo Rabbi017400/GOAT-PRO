@@ -103,7 +103,7 @@
 ‎    name: "youtube",
 ‎    aliases: ["yt"],
 ‎    version: "3.0.0",
-‎    author: "EryXenX",
+‎    author: "RA B BI",
 ‎    role: 0,
 ‎    countDown: 5,
 ‎    category: "media",
