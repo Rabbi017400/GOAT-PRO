@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: "welcome",
     version: "8.0",
-    author: "EryXenX",
+    author: "Rabbi",
     category: "events"
   },
 
@@ -537,7 +537,7 @@ async function createWelcomeCard({
     pGrad.addColorStop(1, 'rgba(46,204,113,1)');
     ctx.fillStyle = pGrad;
     ctx.shadowColor = 'rgba(100,200,255,0.55)'; ctx.shadowBlur = 16;
-    ctx.fillText('Powered By EryXenX', cx, cy + 8);
+    ctx.fillText('Powered By Naru To Chat Bot', cx, cy + 8);
     ctx.restore();
   }
 
