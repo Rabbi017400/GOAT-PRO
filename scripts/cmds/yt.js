@@ -2,8 +2,8 @@
 ‎const fs = require("fs-extra");
 ‎const path = require("path");
 ‎
-‎const API = "https://eryxenx.agi.bd/api/youtubesearch?keyword=";
-‎const DL_API = "https://eryxenx.agi.bd/api/alldl?url=";
+‎const API = "https://rabbi.agi.bd/api/youtubesearch?keyword=";
+‎const DL_API = "https://rabbi.agi.bd/api/alldl?url=";
 ‎const CACHE = path.join(__dirname, "youtube_cache");
 ‎const LINE = "━━━━━━━━━━━━━━━━━━";
 ‎const HEADERS = {
